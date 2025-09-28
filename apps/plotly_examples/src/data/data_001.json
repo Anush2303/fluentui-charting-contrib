@@ -3,25 +3,15 @@
     "data": [
       {
         "cells": {
-          "align": "left",
-          "fill": {
-            "color": [
-              ["lightyellow", "lightblue", "lightyellow", "lightblue"],
-              ["lightyellow", "lightblue", "lightyellow", "lightblue"],
-              ["lightyellow", "lightblue", "lightyellow", "lightblue"]
-            ]
-          },
           "values": [
-            ["Alice", "Bob", "Charlie", "David"],
-            [24, 35, 29, 42],
-            ["HR", "IT", "Marketing", "Finance"]
+            ["Task A", "Task B"],
+            [
+              "Complete the data analysis\u003cbr\u003eby end of week",
+              "Prepare presentation\u003cbr\u003efor Monday meeting"
+            ]
           ]
         },
-        "header": {
-          "align": "left",
-          "fill": { "color": "lightgray" },
-          "values": ["Name", "Age", "Department"]
-        },
+        "header": { "values": ["Title", "Description"] },
         "type": "table"
       }
     ],
@@ -410,6 +400,6 @@
         }
       }
     },
-    "id": 761
+    "id": 763
   }
   
