@@ -1525,10 +1525,10 @@
     embla-carousel-autoplay "^8.5.1"
     embla-carousel-fade "^8.5.1"
 
-"@fluentui/react-charting@^5.25.0":
-  version "5.25.0"
-  resolved "https://registry.yarnpkg.com/@fluentui/react-charting/-/react-charting-5.25.0.tgz#4058e9b9b4d121ccee14bf3cdc0909fe8d202d8f"
-  integrity sha512-znIkTY2g6iW0OsBDXmVRO9JR0+9Eyetap7RjCIO/r8GZmOi2xLsOPRFRQx1WTcfvrLJpIY45teM4K3o7z0Nhqg==
+"@fluentui/react-charting@^5.25.1":
+  version "5.25.1"
+  resolved "https://registry.yarnpkg.com/@fluentui/react-charting/-/react-charting-5.25.1.tgz#ec1a537f391ff8e0f515076d5ea7ab63cff352c4"
+  integrity sha512-3ULPEN5Mohjkgh12LWgcyNgNwnhSAwMbrOQflRKocN4hxSvBLa4K88kBOI+zwZBkTtZOGmtarUz3tUZC/NadPA==
   dependencies:
     "@fluentui/chart-utilities" "^1.1.35"
     "@fluentui/react-focus" "^8.10.0"
